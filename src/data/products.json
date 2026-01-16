@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "name": "Adapter PEP/Amid na Onyx Nayax",
+    "desc": "<strong>Adapter/Przejściówka PEP/Amit na Onyx Nayax.</strong><br/><br/>Pasuje do standardowych otworów w automatach takich jak Evend Solid, Fas Fast, Rheavendors Saphirh, Necta Canto, Opera, Samba Tango oraz wiele innych.<br/><br/><strong>Pozwala szybko i estetycznie przejść na nowocześniejsze systemy płatności w Twoich maszynach vendingowych.</strong> Wykonana z wytrzymałego materiału PET-G metodą druku 3D, odporna na warunki atmosferyczne.<br/><br/>Na zamówienie element możemy wykonać w innych kolorach.<br/><br/>",
+    "images": ["adapter1", "adapter2", "adapter3", "adapter4"]
+  },
+  {
+    "id": 2,
+    "name": "Element naprawczy guzika zwrotu Necta Rondo",
+    "desc": "<strong>Element naprawczy guzika zwrotu monet do automatu Necta Rondo.</strong><br/>Element pozwala na naprawę prowadnicy guzika zwrotu monet bez konieczności wymiany całego przedniego panelu i rozkręcania automatu.<br/><br/>Wymiana wymaga jedynie rozwiercenia otworu po starym guziku wiertłem stożkowym do średnicy 18 mm, a następnie wciśnięcia nowego elementu na miejsce.<br/>Wykonany z wytrzymałego materiału PET-G metodą druku 3D, odporny na warunki atmosferyczne.<br/><br/>Na zamówienie element możemy wykonać w innych kolorach.<br/><br/>",
+    "images": [
+      "guzikzwrotu1",
+      "guzikzwrotu2",
+      "guzikzwrotu3",
+      "guzikzwrotu4",
+      "guzikzwrotu5"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Kółko zwrotu",
+    "desc": "<strong>Kółko zwrotu monet z klapką – zamiennik do automatów Necta.</strong><br/><br/>Zamiennik został zaprojektowany w taki sposób, by umożliwić wygodną wymianę urwanej lub wyłamanej klapki zwrotu monet wraz z ramką bez potrzeby stosowania nietypowych mocowań. <strong>Kółko można łatwo przymocować standardowymi wkrętami</strong>, co znacząco ułatwia montaż – szczególnie w sytuacjach, gdy oryginalne mocowanie zostało usunięte np. podczas oklejania automatu i nie nadaje się do ponownego użycia.<br/><br/><strong>Model posiada konstrukcję modułową</strong> – w przypadku, gdy automat posiada sprawną klapkę, możliwe jest usunięcie klapki i wykorzystanie samej ramki.<br/><br/>Element został wykonany metodą druku 3D z odpornego na zużycie materiału PET-G.<br/>Na zamówienie elementy możemy wykonać w innych kolorach.<br/><br/><strong>Pasuje do automatów: Kikko Max, Astro, Sfera, Snackky Max.</strong>",
+    "images": [
+      "kolkozwrotu1",
+      "kolkozwrotu2",
+      "kolkozwrotu3",
+      "kolkozwrotu4",
+      "kolkozwrotu5"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Podajnik wieczek",
+    "desc": "<strong>Podajnik wieczek 150/180/300ml.</strong><br/><br/>Praktyczny dodatek do każdego automatu vendingowego. Zaprojektowany z myślą o użytkowaniu w przestrzeni publicznej zapewnia klientom możliwość zabrania napoju na wynos.<br/><br/>W naszej ofercie znajdziesz dwa warianty podajników:<br/> - standardowe 70 mm - na kubki 150 ml / 180 ml</li>, <br/> - większe 90 mm - na kubki 300 ml.<br/>Podajnik można w bezinwazyjny sposób przykleić do boku automatu za pomocą taśmy dwustronnej.<br/>Wykonany z wytrzymałego materiału PET-G metodą druku 3D.<br/><br/>Na zamówienie możemy wykonać element w innych kolorach.<br/><br/>",
+    "images": ["podajnikwieczek1", "podajnikwieczek2", "podajnikwieczek3"]
+  },
+  {
+    "id": 5,
+    "name": "Prowadnica wlotu monet Rheavendors",
+    "desc": "<strong>Zjeżdżalnia monet/prowadnica wlotu monet.</strong><br/><br/>Zamiennik prowadnicy wlotu monet <strong>Z0020042051CY COINS ENTRY CHUTE</strong> do automatów Rheavendors, wykonany w technologii druku 3D z wytrzymałego tworzywa PET-G.<br/><br/>Kompatybilny z automatami: <strong>Damian ETA BETA, LUCE X SNAC, CAFFE EUROPA PRO, CAFFE EUROPA, ECO LUCE, LUCE X2 PREMIUM, LUCE X2 PRO, LUCE X2 TOUCHTV I, LUCE X2</strong>.<br/><br/>Na zamówienie element możemy wykonać w innych kolorach.<br/><br/>",
+    "images": [
+      "prowadnicawlotumonet1",
+      "prowadnicawlotumonet2",
+      "prowadnicawlotumonet3",
+      "prowadnicawlotumonet4"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Wkładka zwrotu monet do automatów Necta",
+    "desc": "<strong>Wkładka zwrotu monet do automatów Necta (Astro, Kikko, Kikko Max, Snackky, Snackky Max).</strong><br/><br/>Pozwala na naprawę uszkodzonego mechanizmu zwrotu monet (na przykład w sytuacji wybicia otworu w dnie na skutek uderzania przez monety) bez konieczności wymiany całego modułu.<br/><br/>Zapobiega wpadaniu monet do wnętrza automatu, a montaż nie wymaga użycia specjalistycznych narzędzi.<br/><br/>Wkładka została wykonana z wytrzymałego materiału PET-G metodą druku 3D – jest odporna na uderzenia monet i warunki pracy automatu.<br/>Na zamówienie element możemy wykonać w innych kolorach.<br/><br/>",
+    "images": [
+      "wkladkazwrotumonet1",
+      "wkladkazwrotumonet2",
+      "wkladkazwrotumonet3",
+      "wkladkazwrotumonet4"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Zewnętrzny uchwyt na kubek 300ml",
+    "desc": "<strong>Zewnętrzny uchwyt na kubek 300 ml do automatu vendingowego</strong><br/><br/>Uchwyt przeznaczony jest do montażu na zewnętrznej obudowie automatu za pomocą taśmy klejącej (w zestawie). Umieszczenie w nim kubka o pojemności <strong>300 ml</strong> działa zachęcająco na klientów – prezentuje realny rozmiar porcji napoju.<br/><br/>Ponadto kubek może pełnić funkcję <strong>praktycznego pojemnika na drewniane mieszadełka</strong>. Szczególnie przydatne w automatach przerobionych z małych kubków, które nie są przystosowane do wydawania lub przechowywania patyczków.<br/><br/>Uchwyt został wykonany z wytrzymałego materiału <strong>PET-G</strong> metodą druku 3D.<br/><br/>Na zamówienie element możemy wykonać w innych kolorach.<br/><br/>",
+    "images": [
+      "uchwytnakubek1",
+      "uchwytnakubek2",
+      "uchwytnakubek3",
+      "uchwytnakubek4"
+    ]
+  }
+]
