@@ -113,7 +113,7 @@ const ProductGrid = () => {
                       {selectedProduct.images.map((img, index) => (
                         <div key={index}>
                           <img
-                            src={`${img}.png`}
+                            src={img}
                             alt={`${selectedProduct.name} ${index + 1}`}
                             style={{
                               maxHeight: "400px",

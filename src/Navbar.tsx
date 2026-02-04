@@ -34,7 +34,7 @@ const Navbar = () => {
       zIndex="1000"
       boxShadow="sm"
       width="100%"
-      bg="white"
+      // bg="white"
     >
       <HStack
         width="100vw"
