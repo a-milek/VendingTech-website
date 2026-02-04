@@ -8,9 +8,10 @@ import { BrowserRouter } from "react-router";
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
     <ChakraProvider>
-      <BrowserRouter>
+      <BrowserRouter basename="/VendingTech-website">
+        {/* <BrowserRouter> */}
         <App />
       </BrowserRouter>
     </ChakraProvider>
-  </StrictMode>
+  </StrictMode>,
 );

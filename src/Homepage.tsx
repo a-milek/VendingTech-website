@@ -22,7 +22,6 @@ const Homepage = () => {
     <div>
       <Image src="tlo_vending_x1024.png" />
       <Box
-        bg="white"
         zIndex="1000"
         boxShadow="sm"
         width={"100vw"}
@@ -97,7 +96,6 @@ const Homepage = () => {
         overflow={"hidden"}
       />
       <Box
-        bg="white"
         zIndex="1000"
         boxShadow="sm"
         width={"100vw"}

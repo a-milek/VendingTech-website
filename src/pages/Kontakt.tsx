@@ -3,10 +3,6 @@ import {
   Heading,
   Text,
   VStack,
-  HStack,
-  Input,
-  Textarea,
-  Button,
   SimpleGrid,
   Icon,
   Card,
@@ -15,9 +11,6 @@ import {
 } from "@chakra-ui/react";
 import { FiPhone } from "react-icons/fi";
 import { AiOutlineMail } from "react-icons/ai";
-import { HiOutlineCog6Tooth } from "react-icons/hi2";
-import { IoCartOutline, IoLocationOutline } from "react-icons/io5";
-import { LiaToolsSolid } from "react-icons/lia";
 
 const Kontakt = () => {
   return (

@@ -2,7 +2,7 @@ import { Box, VStack, Text, Link, Stack } from "@chakra-ui/react";
 
 const Footer = () => {
   return (
-    <Box bg="white" py={10} px={6} marginTop={"10%"}>
+    <Box py={10} px={6} marginTop={"10%"}>
       <Stack
         direction={{ base: "column", md: "row" }}
         spacing={10}

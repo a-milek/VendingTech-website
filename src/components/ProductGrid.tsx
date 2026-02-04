@@ -7,12 +7,10 @@ import {
   Stack,
   Image,
   useDisclosure,
-  Button,
   Modal,
   ModalBody,
   ModalCloseButton,
   ModalContent,
-  ModalFooter,
   ModalHeader,
   ModalOverlay,
 } from "@chakra-ui/react";
@@ -41,7 +39,6 @@ const ProductGrid = () => {
   return (
     <>
       <Box
-        bg="white"
         boxShadow="sm"
         width="100vw"
         mx="auto"
@@ -68,7 +65,7 @@ const ProductGrid = () => {
             >
               <CardBody>
                 <Image
-                  src={`/product_photos/${product.images[0]}.png`}
+                  src={`${product.images[0]}.png`}
                   alt={product.name}
                   borderRadius="md"
                   mb={4}
@@ -116,7 +113,7 @@ const ProductGrid = () => {
                       {selectedProduct.images.map((img, index) => (
                         <div key={index}>
                           <img
-                            src={`/product_photos/${img}.png`}
+                            src={`${img}.png`}
                             alt={`${selectedProduct.name} ${index + 1}`}
                             style={{
                               maxHeight: "400px",
