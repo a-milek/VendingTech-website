@@ -17,10 +17,14 @@ import { IoLocationOutline } from "react-icons/io5";
 import { IoIosArrowDown } from "react-icons/io";
 import ProductGrid from "./components/ProductGrid";
 import AboutUs from "./components/AboutUs";
+
+import tloVending from "./assets/tlo_vending_x1024.png";
+import aboutImageLarge from "./assets/obraz_2025-08-21_225757130_x1024.png";
+
 const Homepage = () => {
   return (
     <div>
-      <Image src="tlo_vending_x1024.png" />
+      <Image src={tloVending} />
       <Box
         zIndex="1000"
         boxShadow="sm"
@@ -89,7 +93,7 @@ const Homepage = () => {
         </SimpleGrid>
       </Box>
       <Image
-        src="obraz_2025-08-21_225757130_x1024.png"
+        src={aboutImageLarge}
         minWidth={"100vw"}
         height={"50vw"}
         objectFit="cover"

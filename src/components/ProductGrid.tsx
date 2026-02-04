@@ -65,7 +65,7 @@ const ProductGrid = () => {
             >
               <CardBody>
                 <Image
-                  src={`${product.images[0]}.png`}
+                  src={product.images[0]}
                   alt={product.name}
                   borderRadius="md"
                   mb={4}
