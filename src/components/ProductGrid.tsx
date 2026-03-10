@@ -50,7 +50,7 @@ const ProductGrid = () => {
       >
         <Heading mb={6}>NASZE PRODUKTY</Heading>
 
-        <SimpleGrid spacing={4} columns={{ base: 2, md: 3, lg: 4 }}>
+        <SimpleGrid spacing={2} columns={{ base: 2, md: 3, lg: 4 }}>
           {products.map((product) => (
             <Card
               key={product.id}

@@ -12,12 +12,15 @@ import {
   VStack,
   useDisclosure,
 } from "@chakra-ui/react";
+import { useColorModeValue } from "@chakra-ui/react";
 import { Link } from "react-router-dom";
 import { RxHamburgerMenu } from "react-icons/rx";
 import logo from "/src/assets/vendingtech-logo.jpg";
+import { ColorModeSwitch } from "./components/ColorModeSwitch";
 
 const Navbar = () => {
   const { isOpen, onOpen, onClose } = useDisclosure();
+  const bgColor = useColorModeValue("white", "#1a202c");
 
   const navLinks = [
     { name: "Strona Główna", path: "/" },
@@ -34,7 +37,7 @@ const Navbar = () => {
       zIndex="1000"
       boxShadow="sm"
       width="100%"
-      // bg="white"
+      bg={bgColor}
     >
       <HStack
         width="100vw"
@@ -57,11 +60,11 @@ const Navbar = () => {
               <Text _hover={{ color: "blue.500" }}>{link.name}</Text>
             </Link>
           ))}
+          <ColorModeSwitch />
         </HStack>
 
         {/* Hamburger menu for mobile */}
         <IconButton
-          color={"black"}
           aria-label="Open menu"
           icon={<RxHamburgerMenu />}
           display={{ base: "flex", md: "none" }}

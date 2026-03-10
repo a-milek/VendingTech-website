@@ -51,7 +51,14 @@ const AboutUs = () => {
           <Text as="b">zapraszamy do współpracy.</Text>
         </Text>
 
-        <Image src={aboutImage} alt="About Us" />
+        <Image
+          src={aboutImage}
+          alt="About Us"
+          maxW="350px"
+          w="100%"
+          h="auto"
+          objectFit="contain"
+        />
       </Stack>
     </Box>
   );

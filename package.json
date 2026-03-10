@@ -2,7 +2,7 @@
   "name": "vending-tech-website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://a-milek.github.io/vending-tech-website",
+  "homepage": "https://vendingtech.pl",
   "type": "module",
   "scripts": {
     "dev": "vite",

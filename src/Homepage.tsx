@@ -24,14 +24,12 @@ import aboutImageLarge from "./assets/obraz_2025-08-21_225757130_x1024.png";
 const Homepage = () => {
   return (
     <div>
-      <Image src={tloVending} />
+      <Image src={tloVending} width="100%" />
       <Box
-        zIndex="1000"
+        py={8}
         boxShadow="sm"
-        width={"100vw"}
+        width="100%"
         mx="auto"
-        px={6}
-        py={4}
         alignItems="center"
         justifyContent="space-between"
         alignContent="center"
@@ -40,7 +38,7 @@ const Homepage = () => {
         <Heading alignSelf="center" textAlign="center" size={"2xl"} py={8}>
           Nasze Usługi
         </Heading>
-        <SimpleGrid spacing={4} columns={{ base: 1, md: 2, lg: 4 }} p={8}>
+        <SimpleGrid spacing={4} columns={{ base: 1, md: 2, lg: 4 }} p={8} m={9}>
           <Card variant="outline">
             <Stack direction={{ base: "column", sm: "row" }} spacing={4} p={4}>
               <Icon as={LiaToolsSolid} boxSize={12} color="blue.500" />
@@ -94,7 +92,7 @@ const Homepage = () => {
       </Box>
       <Image
         src={aboutImageLarge}
-        minWidth={"100vw"}
+        width="100%"
         height={"50vw"}
         objectFit="cover"
         overflow={"hidden"}
@@ -102,7 +100,7 @@ const Homepage = () => {
       <Box
         zIndex="1000"
         boxShadow="sm"
-        width={"100vw"}
+        width="100%"
         mx="auto"
         px={6}
         py={4}
