@@ -11,17 +11,19 @@ import {
 } from "@chakra-ui/react";
 import { FiPhone } from "react-icons/fi";
 import { AiOutlineMail } from "react-icons/ai";
+import { useIntl } from "react-intl";
 
 const Kontakt = () => {
+  const intl = useIntl();
   return (
     <Box id="kontakt" py={12} px={{ base: 4, md: 12 }} maxW="7xl" mx="auto">
       {/* Title and description */}
       <VStack spacing={4} textAlign="center" mb={12}>
-        <Heading>KONTAKT</Heading>
+        <Heading> {intl.formatMessage({ id: "contact.title" })}</Heading>
         <Text>
-          SKONTAKTUJ SIĘ Z NAMI, POMOŻEMY ROZWIĄZAĆ TWOJE PROBLEMY!
+          {intl.formatMessage({ id: "contact.description.1" })}
           <br />
-          Fizycznie działamy na terenie Katowic i województwa Śląskiego.
+          {intl.formatMessage({ id: "contact.description.2" })}
         </Text>
       </VStack>
 
@@ -31,7 +33,10 @@ const Kontakt = () => {
           <Stack direction={{ base: "column", sm: "row" }} spacing={4} p={4}>
             <Icon as={FiPhone} boxSize={12} color="blue.500" />
             <Box>
-              <Heading size="md">Zadzwoń do nas</Heading>
+              <Heading size="md">
+                {" "}
+                {intl.formatMessage({ id: "contact.phone.title" })}
+              </Heading>
               <Link
                 href="tel:+48530374503"
                 _hover={{ textDecoration: "underline" }}
@@ -46,7 +51,10 @@ const Kontakt = () => {
           <Stack direction={{ base: "column", sm: "row" }} spacing={4} p={4}>
             <Icon as={AiOutlineMail} boxSize={12} color="blue.500" />
             <Box>
-              <Heading size="md">Wyślij do nas zgłoszenie</Heading>
+              <Heading size="md">
+                {" "}
+                {intl.formatMessage({ id: "contact.email.title" })}
+              </Heading>
               <Link
                 href="mailto:vendingtech.sklep@gmail.com"
                 _hover={{ textDecoration: "underline" }}

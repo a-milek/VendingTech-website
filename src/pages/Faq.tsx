@@ -6,74 +6,48 @@ import {
   ListItem,
   VStack,
 } from "@chakra-ui/react";
+import { useIntl } from "react-intl";
 
 const Faq = () => {
-  const faqs = [
-    {
-      question: "Czy moje dane są bezpieczne?",
-      answer:
-        "Tak, korzystamy z najnowszych technologii szyfrowania, aby chronić Twoje dane zgodnie z RODO.",
-    },
-    {
-      question: "Jak mogę dokonać zwrotu?",
-      answer:
-        "Zwroty są proste – skontaktuj się z nami w ciągu 14 dni od zakupu, a przeprowadzimy Cię przez proces.",
-    },
-    {
-      question: "Czy mogę zaufać jakości produktów?",
-      answer:
-        "Tak, wszystkie nasze produkty przechodzą rygorystyczne kontrole jakości – stawiamy na niezawodność!",
-    },
-    {
-      question: "Jak skontaktować się z obsługą?",
-      answer:
-        "Napisz do nas na vendingtech.sklep@gmail.com lub zadzwoń pod +48 530 374 503 – odpowiadamy szybko i chętnie pomożemy.",
-    },
-    {
-      question: "Jak długo trwa dostawa?",
-      answer:
-        "Dostawa trwa zazwyczaj 2-5 dni roboczych – otrzymasz powiadomienie o statusie zamówienia.",
-    },
-    {
-      question: "Czy oferujecie wsparcie po zakupie?",
-      answer:
-        "Oczywiście! Nasz zespół jest dostępny, by pomóc Ci w razie problemów – skontaktuj się z nami w dowolnym momencie.",
-    },
-    {
-      question: "Czy mogę śledzić moje zamówienie?",
-      answer:
-        "Tak, po wysyłce otrzymasz link do śledzenia przesyłki – wszystko pod kontrolą!",
-    },
-    {
-      question: "Jakie metody płatności akceptujecie?",
-      answer:
-        "Akceptujemy przelewy, karty płatnicze i popularne portfele elektroniczne – wybierz najwygodniejszą opcję!",
-    },
+  const intl = useIntl();
+  const faqKeys = [
+    { q: "faq.q1", a: "faq.a1" },
+    { q: "faq.q2", a: "faq.a2" },
+    { q: "faq.q3", a: "faq.a3" },
+    { q: "faq.q4", a: "faq.a4" },
+    { q: "faq.q5", a: "faq.a5" },
+    { q: "faq.q6", a: "faq.a6" },
+    { q: "faq.q7", a: "faq.a7" },
+    { q: "faq.q8", a: "faq.a8" },
   ];
 
   return (
     <Box p={8} maxW="800px" mx="auto">
       <VStack spacing={4} align="start">
         <Heading as="h1" size="2xl">
-          Często zadawane pytania (FAQ)
+          {intl.formatMessage({ id: "faq.title" })}
         </Heading>
         <Text fontSize="lg" fontWeight="bold">
-          Zadbaj o swoje wątpliwości – jesteśmy tu, by Ci pomóc!
+          {intl.formatMessage({ id: "faq.description" })}
         </Text>
 
         <UnorderedList spacing={4} mt={4}>
-          {faqs.map((faq, index) => (
+          {faqKeys.map((faq, index) => (
             <ListItem key={index}>
               <Text as="h5" fontWeight="bold" mb={1}>
-                {faq.question}
+                {intl.formatMessage({ id: faq.q })}
               </Text>
-              <Text>{faq.answer}</Text>
+              <Text
+                dangerouslySetInnerHTML={{
+                  __html: intl.formatMessage({ id: faq.a }),
+                }}
+              />
             </ListItem>
           ))}
         </UnorderedList>
 
         <Heading as="h4" size="md" mt={6}>
-          Zaufaj nam i ciesz się zakupami bez obaw!
+          {intl.formatMessage({ id: "faq.end" })}
         </Heading>
       </VStack>
     </Box>

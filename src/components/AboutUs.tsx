@@ -1,13 +1,13 @@
 import { Box, Heading, Stack, Text, Image } from "@chakra-ui/react";
-
-// ✅ Import images
 import bgImage from "../assets/ChatGPT_Image_6_sie_2025_21_32_25_2048x.png";
 import aboutImage from "../assets/obraz_2025-08-21_171629772_310x.png";
+import { useIntl } from "react-intl";
 
 const AboutUs = () => {
+  const intl = useIntl();
   return (
     <Box
-      bgImage={`url(${bgImage})`} // ✅ use imported image
+      bgImage={`url(${bgImage})`}
       bgRepeat="no-repeat"
       bgSize="cover"
       boxShadow="sm"
@@ -19,7 +19,7 @@ const AboutUs = () => {
       textAlign="center"
     >
       <Heading color="#28c5fe" py={4}>
-        O NAS
+        {intl.formatMessage({ id: "about.title" })}
       </Heading>
 
       <Stack
@@ -27,8 +27,16 @@ const AboutUs = () => {
         direction={{ base: "column", md: "row" }}
         width="70%"
         mx="auto"
+        px={4}
       >
-        <Text color="white" textAlign="justify">
+        <Text
+          color="white"
+          textAlign="justify"
+          dangerouslySetInnerHTML={{
+            __html: intl.formatMessage({ id: "about.description" }),
+          }}
+        />
+        {/* <Text color="white" textAlign="justify">
           Cześć! Nazywam się <Text as="b">Paweł Tuszkiewicz</Text> i od ponad 15
           lat działam w świecie technologii i vendingu. Zawsze pociągały mnie
           rzeczy, które inni uznają za „nienaprawialne” – lubię rozwiązywać
@@ -49,7 +57,7 @@ const AboutUs = () => {
           Jeśli szukasz firmy, która łączy doświadczenie z elastycznym
           podejściem i realnym zaangażowaniem w każdy projekt –{" "}
           <Text as="b">zapraszamy do współpracy.</Text>
-        </Text>
+        </Text> */}
 
         <Image
           src={aboutImage}

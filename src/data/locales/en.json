@@ -1,0 +1,70 @@
+{
+  "nav.home": "Home",
+  "nav.products": "Products",
+  "nav.services": "Services",
+  "nav.contact": "Contact",
+  "nav.faq": "FAQ",
+  "nav.openMenu": "Open menu",
+  "nav.learnMore": "Learn more",
+  "nav.browseProducts": "Browse products",
+
+  "services.title": "Our Services",
+
+  "services.service.title": "VENDING MACHINE SERVICE",
+  "services.service.description": "We provide comprehensive service and technical support, ensuring the reliable operation of your machines.",
+
+  "services.parts.title": "SPARE PARTS SALES",
+  "services.parts.description": "A wide range of spare parts with the possibility to tailor them to individual customer needs.",
+
+  "services.print3d.title": "FROM IDEA TO REALITY",
+  "services.print3d.description": "We design and 3D print prototypes, technical parts, and custom solutions.",
+
+  "services.vending.title": "VENDING MACHINES WITHIN YOUR REACH",
+  "services.vending.description": "We offer vending machines for sale and rental. We provide flexible cooperation terms and tailor our offer to your business needs.",
+
+  "products.title": "Our Products",
+
+  "about.title": "About Us",
+  "about.description": "Hi! My name is <b>Paweł Tuszkiewicz</b> and I have been working in the world of technology and vending for over 15 years. I have always been drawn to things that others consider 'unfixable' – I like solving problems where most people give up.<br/><br/><b>VendingTech</b> is the result of this passion. I wanted to create a company that combines a practical approach with openness to new technologies. I don't operate according to rigid schemes – I treat vending machines as a space for experimenting and implementing improvements that really make a difference. I use my own projects, unconventional solutions, and knowledge gained from years of working with various systems.<br/><br/>Outside of vending, I create flying models and engage in technological projects that develop my skills and allow me to look at technology from a different perspective.<br/><br/>If you're looking for a company that combines experience with a flexible approach and real commitment to every project – <b>we invite you to work with us.</b>",
+
+  "faq.title": "Frequently Asked Questions ",
+  "faq.description": "Were here to help you!",
+  "faq.q1": "Is my data safe?",
+  "faq.a1": "Yes, we use the latest encryption technologies to protect your data in accordance with RODO.",
+
+  "faq.q2": "How can I make a return?",
+  "faq.a2": "Returns are simple – contact us within 14 days of purchase, and we will guide you through the process.",
+
+  "faq.q3": "Can I trust the quality of the products?",
+  "faq.a3": "Yes, all our products undergo rigorous quality control – we focus on reliability!",
+
+  "faq.q4": "How can I contact customer service?",
+  "faq.a4": "Write to us at vendingtech.sklep@gmail.com or call +48 530 374 503 – we respond quickly and are happy to help.",
+
+  "faq.q5": "How long does delivery take?",
+  "faq.a5": "Delivery usually takes 2-5 business days – you will be notified about the status of your order.",
+
+  "faq.q6": "Do you offer support after purchase?",
+  "faq.a6": "Of course! Our team is available to help you in case of problems – contact us at any time.",
+
+  "faq.q7": "Can I track my order?",
+  "faq.a7": "Yes, after shipping you will receive a link to track your package – everything under control!",
+
+  "faq.q8": "What payment methods do you accept?",
+  "faq.a8": "We accept bank transfers, payment cards, and popular e-wallets – choose the most convenient option!",
+  "faq.end": "Trust us and enjoy your purchase!",
+
+  "services_page.title": "Our Services",
+
+  "services_page.service.title": "VENDING MACHINE SERVICE",
+  "services_page.service.description": "<b>Consulting and sales:</b> We provide professional advice of vending machines, adapting them to the specific location and user needs.<br/><br/><b>Transport and assembly:</b> We provide safe transport and professional configuration of devices on site.<br/><br/><b>Service and technical support:</b> We offer ongoing maintenance, repair of cooling systems, replacement of consumables and delivery of components on request, operating in the Silesia region.",
+  "services_page.print3d.title": "3D PRINTING AND CUSTOM DESIGNS",
+  "services_page.print3d.description": "<b>3D printing and custom part design:</b> With an advanced technological background, we offer: <b>3D printing from submitted files</b> (STL, OBJ, 3MF, and others), <b>3D model design from scratch</b> – based on sketches, technical drawings, or descriptions.<br/><br/><b>Printing:</b> We operate on a Prusa XL printer equipped with:<br/>➔ Large working area: 35 × 35 cm<br/>➔ The ability to print in five colors (or five different materials) simultaneously<br/><br/><b>We produce, among others:</b><br/>➔ Technical and spare parts<br/>➔ Prototypes and custom components<br/>➔ Enclosure elements, adapters, mounts<br/><br/><b>Technology and materials:</b> We print using FDM technology with a wide range of materials (PLA, PETG, ABS).<br/><br/><b>Verification:</b> Before production, each model undergoes verification for feasibility and compliance with printing technology.",
+
+  "contact.title": "Contact Us",
+  "contact.description.1": "Have questions or want to work with us? Reach out – we're here to help!",
+  "contact.description.2": "We physically operate in Katowice and the Silesian Voivodeship",
+  "contact.phone.title": "Call us",
+  "contact.email.title": "Email us",
+  "footer.allRightsReserved": "All rights reserved."
+}

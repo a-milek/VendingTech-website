@@ -1,12 +1,25 @@
 import { Box, VStack, Text, Link, Stack } from "@chakra-ui/react";
+import { useIntl } from "react-intl";
+import { Link as RouterLink } from "react-router-dom";
 
 const Footer = () => {
+  const intl = useIntl();
+
+  const navLinks = [
+    { id: "nav.home", path: "/" },
+    { id: "nav.products", path: "/produkty" },
+    { id: "nav.services", path: "/uslugi" },
+    { id: "nav.contact", path: "/kontakt" },
+    { id: "nav.faq", path: "/faq" },
+  ];
+
   return (
-    <Box py={10} px={6} marginTop={"10%"}>
+    <Box py={10} px={6} mt="10%">
       <Stack
         direction={{ base: "column", md: "row" }}
         spacing={10}
         justify="space-between"
+        align="start"
         maxW="1200px"
         mx="auto"
       >
@@ -15,81 +28,44 @@ const Footer = () => {
           <Text fontWeight="bold" mb={2} fontSize="lg">
             MENU
           </Text>
-          <Link href="/" _hover={{ textDecoration: "underline" }}>
-            Strona główna
-          </Link>
-          <Link href="/sklep" _hover={{ textDecoration: "underline" }}>
-            Sklep
-          </Link>
-          <Link href="/uslugi" _hover={{ textDecoration: "underline" }}>
-            Usługi
-          </Link>
-          <Link href="/kontakt" _hover={{ textDecoration: "underline" }}>
-            Kontakt
-          </Link>
-          <Link href="/faq" _hover={{ textDecoration: "underline" }}>
-            FAQ
-          </Link>
-        </VStack>
-
-        {/* LEGAL */}
-        <VStack align="start" spacing={2}>
-          <Text fontWeight="bold" mb={2} fontSize="lg">
-            INFORMACJE PRAWNE
-          </Text>
-          <Link href="/regulamin" _hover={{ textDecoration: "underline" }}>
-            Regulamin strony
-          </Link>
-          <Link
-            href="/polityka-prywatnosci"
-            _hover={{ textDecoration: "underline" }}
-          >
-            Polityka prywatności
-          </Link>
-          <Link href="/faq" _hover={{ textDecoration: "underline" }}>
-            FAQ
-          </Link>
+          {navLinks.map((link) => (
+            <Link
+              as={RouterLink}
+              key={link.id}
+              to={link.path}
+              _hover={{ textDecoration: "none" }}
+            >
+              <Text _hover={{ color: "blue.500" }}>
+                {intl.formatMessage({ id: link.id })}
+              </Text>
+            </Link>
+          ))}
         </VStack>
 
         {/* CONTACT */}
         <VStack align="start" spacing={2}>
           <Text fontWeight="bold" mb={2} fontSize="lg">
-            SKONTAKTUJ SIĘ Z NAMI
+            {intl.formatMessage({ id: "contact.title" })}
           </Text>
           <Text>
-            TELEFON:{" "}
-            <Link
-              href="tel:+48530374503"
-              _hover={{ textDecoration: "underline" }}
-            >
+            <Link href="tel:+48530374503" _hover={{ color: "blue.500" }}>
               +48 530 374 503
             </Link>
           </Text>
           <Text>
-            ADRES E-MAIL:{" "}
             <Link
               href="mailto:vendingtech.sklep@gmail.com"
-              _hover={{ textDecoration: "underline" }}
+              _hover={{ color: "blue.500" }}
             >
               vendingtech.sklep@gmail.com
             </Link>
           </Text>
-          {/* <Button
-            as={Link}
-            href="/formularz-kontaktowy"
-            colorScheme="teal"
-            variant="outline"
-            size="sm"
-            mt={2}
-          >
-            Formularz kontaktowy: Kliknij tutaj
-          </Button> */}
         </VStack>
       </Stack>
 
-      <Text textAlign="center" fontSize="sm" color={"gray.400"}>
-        &copy; {new Date().getFullYear()} VendingTech. Wszelkie prawa
-        zastrzeżone.
+      <Text textAlign="center" fontSize="sm" color="gray.400" mt={8}>
+        &copy; {new Date().getFullYear()} VendingTech.{" "}
+        {intl.formatMessage({ id: "footer.allRightsReserved" })}
       </Text>
     </Box>
   );

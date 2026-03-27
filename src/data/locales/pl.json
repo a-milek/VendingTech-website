@@ -1,0 +1,68 @@
+{
+  "nav.home": "Strona Główna",
+  "nav.products": "Produkty",
+  "nav.services": "Usługi",
+  "nav.contact": "Kontakt",
+  "nav.faq": "FAQ",
+  "nav.openMenu": "Otwórz menu",
+
+  "nav.learnMore": "Dowiedz się więcej",
+  "nav.browseProducts": "Przeglądaj produkty",
+
+  "services.title": "Nasze Usługi",
+  "services.service.title": "SERWIS AUTOMATÓW VENDINGOWYCH",
+  "services.service.description": "Świadczymy kompleksowy serwis oraz wsparcie techniczne, zapewniając niezawodną pracę Twoich urządzeń.",
+  "services.parts.title": "SPRZEDAŻ CZĘŚCI ZAMIENNYCH",
+  "services.parts.description": "Szeroki wybór części zamiennych z możliwością dostosowania do indywidualnych potrzeb klienta.",
+  "services.print3d.title": "OD POMYSŁU DO FIZYCZNEJ FORMY",
+  "services.print3d.description": "Projektujemy i drukujemy w technologii 3D prototypy, części techniczne, niestandardowe rozwiązania.",
+  "services.vending.title": "AUTOMATY VENDINGOWE W TWOIM ZASIĘGU",
+  "services.vending.description": "Oferujemy automaty vendingowe na sprzedaż oraz wynajem. Zapewniamy elastyczne warunki współpracy i dopasowanie oferty do potrzeb Twojej firmy.",
+
+  "products.title": "Nasze Produkty",
+  "about.title": "O Nas",
+
+  "about.description": "Cześć! Nazywam się <b>Paweł Tuszkiewicz</b> i od ponad 15 lat działam w świecie technologii i vendingu. Zawsze pociągały mnie rzeczy, które inni uznają za „nienaprawialne” – lubię rozwiązywać problemy tam, gdzie większość odpuszcza.<br/><br/><b>VendingTech</b> to efekt tej pasji. Chciałem stworzyć firmę, która łączy praktyczne podejście z otwartością na nowe technologie. Nie działam według sztywnych schematów – automaty traktuję jak przestrzeń do eksperymentowania i wdrażania usprawnień, które realnie coś zmieniają. Korzystam z własnych projektów, nietypowych rozwiązań i wiedzy zdobytej przez lata pracy przy różnych systemach.<br/><br/>Poza vendingiem tworzę zdalnie sterowane modele latające i angażuję się w projekty technologiczne, które rozwijają moje umiejętności i pozwalają patrzeć na technikę z innej perspektywy.<br/><br/>Jeśli szukasz firmy, która łączy doświadczenie z elastycznym podejściem i realnym zaangażowaniem w każdy projekt – <b>zapraszamy do współpracy.</b>",
+
+  "faq.title": "Często zadawane pytania (FAQ)",
+  "faq.description": "Zadbaj o swoje wątpliwości – jesteśmy tu, by Ci pomóc!",
+  "faq.q1": "Czy moje dane są bezpieczne?",
+  "faq.a1": "Tak, korzystamy z najnowszych technologii szyfrowania, aby chronić Twoje dane zgodnie z <b>RODO</b>.",
+
+  "faq.q2": "Jak mogę dokonać zwrotu?",
+  "faq.a2": "Zwroty są proste – skontaktuj się z nami w ciągu <b>14 dni</b> od zakupu, a przeprowadzimy Cię przez proces.",
+
+  "faq.q3": "Czy mogę zaufać jakości produktów?",
+  "faq.a3": "Tak, wszystkie nasze produkty przechodzą rygorystyczne kontrole jakości – stawiamy na <b>niezawodność</b>!",
+
+  "faq.q4": "Jak skontaktować się z obsługą?",
+  "faq.a4": "Napisz do nas na <b>vendingtech.sklep@gmail.com</b> lub zadzwoń pod <b>+48 530 374 503</b> – odpowiadamy szybko i chętnie pomożemy.",
+
+  "faq.q5": "Jak długo trwa dostawa?",
+  "faq.a5": "Dostawa trwa zazwyczaj <b>2-5 dni roboczych</b> – otrzymasz powiadomienie o statusie zamówienia.",
+
+  "faq.q6": "Czy oferujecie wsparcie po zakupie?",
+  "faq.a6": "Oczywiście! Nasz zespół jest dostępny, by pomóc Ci w razie problemów – skontaktuj się z nami w dowolnym momencie.",
+
+  "faq.q7": "Czy mogę śledzić moje zamówienie?",
+  "faq.a7": "Tak, po wysyłce otrzymasz link do <b>śledzenia przesyłki</b> – wszystko pod kontrolą!",
+
+  "faq.q8": "Jakie metody płatności akceptujecie?",
+  "faq.a8": "Akceptujemy przelewy, karty płatnicze i popularne portfele elektroniczne – wybierz najwygodniejszą opcję!",
+  "faq.end": "Zaufaj nam i ciesz się zakupem!",
+
+  "services_page.title": "Nasze Usługi",
+
+  "services_page.service.title": "SERWIS AUTOMATÓW VENDINGOWYCH",
+  "services_page.service.description": "<b>Doradztwo i sprzedaż:</b> Profesjonalnie doradzamy w doborze automatów vendingowych, dopasowując je do specyfiki lokalizacji i potrzeb użytkownika.<br/><br/><b>Transport i montaż:</b> Zapewniamy bezpieczny transport oraz fachową konfigurację urządzeń na miejscu.<br/><br/><b>Serwis i wsparcie techniczne:</b> Oferujemy bieżącą konserwację, naprawę systemów chłodzących, wymianę części eksploatacyjnych oraz dostawę komponentów na zamówienie, działając na terenie Śląska.",
+
+  "services_page.print3d.title": "DRUK 3D I PROJEKTOWANIE NA ZAMÓWIENIE",
+  "services_page.print3d.description": "<b>Druk 3D i projektowanie elementów na zamówienie:</b> Dysponując zaawansowanym zapleczem technologicznym oferujemy: <b>druk 3D z przesłanych plików</b> (STL, OBJ, 3MF i inne), <b>projektowanie modeli 3D od podstaw</b> – na podstawie szkiców, rysunków technicznych lub opisu.<br/><br/><b>Druk:</b> Realizujemy na drukarce Prusa XL wyposażonej w:<br/>➔ Duże pole robocze: 35 × 35 cm<br/>➔ Możliwość druku w pięciu kolorach (lub z pięciu różnych materiałów) jednocześnie<br/><br/><b>Wykonujemy m.in.:</b><br/>➔ Części techniczne i zamienne<br/>➔ Prototypy i niestandardowe komponenty<br/>➔ Elementy obudów, adaptery, mocowania<br/><br/><b>Technologia i materiały:</b> Drukujemy w technologii FDM z szerokiej gamy materiałów (PLA, PETG, ABS).<br/><br/><b>Weryfikacja:</b> Przed realizacją każdy model przechodzi weryfikację pod kątem wykonalności i zgodności z technologią druku.",
+
+  "contact.title": "Skontaktuj się z nami",
+  "contact.description.1": "Masz pytania lub chcesz z nami współpracować? Skontaktuj się – jesteśmy tu, by pomóc!",
+  "contact.description.2": "Fizycznie działamy w Katowicach i na terenie województwa śląskiego",
+  "contact.phone.title": "Zadzwoń do nas",
+  "contact.email.title": "Wyślij do nas e-mail",
+  "footer.allRightsReserved": "Wszelkie prawa zastrzeżone."
+}

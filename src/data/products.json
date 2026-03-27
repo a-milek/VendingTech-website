@@ -1,8 +1,17 @@
 [
   {
     "id": 1,
-    "name": "Adapter PEP/Amid na Onyx Nayax",
-    "desc": "<strong>Adapter/Przejściówka PEP/Amit na Onyx Nayax.</strong><br/><br/>Pasuje do standardowych otworów w automatach takich jak Evend Solid, Fas Fast, Rheavendors Saphirh, Necta Canto, Opera, Samba Tango oraz wiele innych.<br/><br/><strong>Pozwala szybko i estetycznie przejść na nowocześniejsze systemy płatności w Twoich maszynach vendingowych.</strong> Wykonana z wytrzymałego materiału PET-G metodą druku 3D, odporna na warunki atmosferyczne.<br/><br/>Na zamówienie element możemy wykonać w innych kolorach.<br/><br/>",
+    "name": {
+      "pl": "Adapter PEP/Amid na Onyx Nayax",
+      "en": "PEP/Amid Adapter for Onyx Nayax"
+    },
+
+    "desc": {
+      "pl": "<strong>Adapter/Przejściówka PEP/Amit na Onyx Nayax.</strong><br/><br/>Pasuje do standardowych otworów w automatach takich jak Evend Solid, Fas Fast, Rheavendors Saphirh, Necta Canto, Opera, Samba Tango oraz wiele innych.<br/><br/><strong>Pozwala szybko i estetycznie przejść na nowocześniejsze systemy płatności w Twoich maszynach vendingowych.</strong> Wykonana z wytrzymałego materiału PET-G metodą druku 3D, odporna na warunki atmosferyczne.<br/><br/>Na zamówienie element możemy wykonać w innych kolorach.<br/><br/>",
+      "en": "<strong>PEP/Amid Adapter for Onyx Nayax.</strong><br/><br/>Fits standard openings in vending machines such as Evend Solid, Fas Fast, Rheavendors Saphirh, Necta Canto, Opera, Samba Tango, and many more.<br/><br/><strong>Allows you to quickly and neatly upgrade to modern payment systems in your vending machines.</strong> Made from durable PET-G material using 3D printing, weather-resistant.<br/><br>Custom colors available upon request.<br/><br/>"
+    },
+    "link": "https://www.olx.pl/d/oferta/adapter-pep-amid-na-onyx-nayax-CID99-ID19WW6i.html?reason=seller_listing",
+
     "images": [
       "/products/adapter1.png",
       "/products/adapter2.png",
@@ -12,8 +21,15 @@
   },
   {
     "id": 2,
-    "name": "Element naprawczy guzika zwrotu Necta Rondo",
-    "desc": "<strong>Element naprawczy guzika zwrotu monet do automatu Necta Rondo.</strong><br/>Element pozwala na naprawę prowadnicy guzika zwrotu monet bez konieczności wymiany całego przedniego panelu i rozkręcania automatu.<br/><br/>Wymiana wymaga jedynie rozwiercenia otworu po starym guziku wiertłem stożkowym do średnicy 18 mm, a następnie wciśnięcia nowego elementu na miejsce.<br/>Wykonany z wytrzymałego materiału PET-G metodą druku 3D, odporny na warunki atmosferyczne.<br/><br/>Na zamówienie element możemy wykonać w innych kolorach.<br/><br/>",
+    "name": {
+      "pl": "Element naprawczy guzika zwrotu Necta Rondo",
+      "en": "Necta Rondo Coin Return Button Repair Part"
+    },
+    "desc": {
+      "pl": "<strong>Element naprawczy guzika zwrotu monet do automatu Necta Rondo.</strong><br/>Element pozwala na naprawę prowadnicy guzika zwrotu monet bez konieczności wymiany całego przedniego panelu i rozkręcania automatu.<br/><br/>Wymiana wymaga jedynie rozwiercenia otworu po starym guziku wiertłem stożkowym do średnicy 18 mm, a następnie wciśnięcia nowego elementu na miejsce.<br/>Wykonany z wytrzymałego materiału PET-G metodą druku 3D, odporny na warunki atmosferyczne.<br/><br/>Na zamówienie element możemy wykonać w innych kolorach.<br/><br/>",
+      "en": "<strong>Necta Rondo coin return button repair part.</strong><br/>This part allows you to repair the coin return button guide without replacing the entire front panel or disassembling the machine.<br/><br>Replacement requires only drilling out the old button hole to 18mm diameter, then pressing in the new part.<br/>Made from durable PET-G material using 3D printing, weather-resistant.<br/>Custom colors available upon request.<br/><br/>"
+    },
+    "link": "https://www.olx.pl/d/oferta/element-naprawczy-guzika-zwrotu-necta-rondo-CID628-ID19WUE7.html?reason=seller_listing",
     "images": [
       "/products/guzikzwrotu1.png",
       "/products/guzikzwrotu2.png",
@@ -24,8 +40,15 @@
   },
   {
     "id": 3,
-    "name": "Kółko zwrotu",
-    "desc": "<strong>Kółko zwrotu monet z klapką – zamiennik do automatów Necta.</strong><br/><br/>Zamiennik został zaprojektowany w taki sposób, by umożliwić wygodną wymianę urwanej lub wyłamanej klapki zwrotu monet wraz z ramką bez potrzeby stosowania nietypowych mocowań. <strong>Kółko można łatwo przymocować standardowymi wkrętami</strong>, co znacząco ułatwia montaż – szczególnie w sytuacjach, gdy oryginalne mocowanie zostało usunięte np. podczas oklejania automatu i nie nadaje się do ponownego użycia.<br/><br/><strong>Model posiada konstrukcję modułową</strong> – w przypadku, gdy automat posiada sprawną klapkę, możliwe jest usunięcie klapki i wykorzystanie samej ramki.<br/><br/>Element został wykonany metodą druku 3D z odpornego na zużycie materiału PET-G.<br/>Na zamówienie elementy możemy wykonać w innych kolorach.<br/><br/><strong>Pasuje do automatów: Kikko Max, Astro, Sfera, Snackky Max.</strong>",
+    "name": {
+      "pl": "Kółko zwrotu",
+      "en": "Coin Return Wheel"
+    },
+    "desc": {
+      "pl": "<strong>Kółko zwrotu monet z klapką – zamiennik do automatów Necta.</strong><br/><br/>Zamiennik został zaprojektowany w taki sposób, by umożliwić wygodną wymianę urwanej lub wyłamanej klapki zwrotu monet wraz z ramką bez potrzeby stosowania nietypowych mocowań. <strong>Kółko można łatwo przymocować standardowymi wkrętami</strong>, co znacząco ułatwia montaż – szczególnie w sytuacjach, gdy oryginalne mocowanie zostało usunięte np. podczas oklejania automatu i nie nadaje się do ponownego użycia.<br/><br/><strong>Model posiada konstrukcję modułową</strong> – w przypadku, gdy automat posiada sprawną klapkę, możliwe jest usunięcie klapki i wykorzystanie samej ramki.<br/><br/>Element został wykonany metodą druku 3D z odpornego na zużycie materiału PET-G.<br/>Na zamówienie elementy możemy wykonać w innych kolorach.<br/><br/><strong>Pasuje do automatów: Kikko Max, Astro, Sfera, Snackky Max.</strong>",
+      "en": "<strong>Coin return wheel with flap – replacement for Necta machines.</strong><br/><br/>This replacement is designed to allow convenient swapping of a broken or missing coin return flap with its frame without using special fasteners. <strong>The wheel can be easily attached using standard screws</strong>, making installation much easier – especially when the original mounting has been removed, e.g., during machine wrapping, and cannot be reused.<br/><br/><strong>The model has a modular design</strong> – if the machine’s flap is intact, the flap can be removed and only the frame used.<br/><br/>The part is 3D-printed from durable PET-G material, resistant to wear.<br/>Custom colors are available upon request.<br/><br/><strong>Fits machines: Kikko Max, Astro, Sfera, Snackky Max.</strong>"
+    },
+    "link": "https://www.olx.pl/d/oferta/kolko-zwrotu-monet-z-klapka-zamiennik-do-automatow-necta-CID99-ID19WUHe.html?reason=seller_listing",
     "images": [
       "/products/kolkozwrotu1.png",
       "/products/kolkozwrotu2.png",
@@ -36,18 +59,33 @@
   },
   {
     "id": 4,
-    "name": "Podajnik wieczek",
-    "desc": "<strong>Podajnik wieczek 150/180/300ml.</strong><br/><br/>Praktyczny dodatek do każdego automatu vendingowego. Zaprojektowany z myślą o użytkowaniu w przestrzeni publicznej zapewnia klientom możliwość zabrania napoju na wynos.<br/><br/>W naszej ofercie znajdziesz dwa warianty podajników:<br/> - standardowe 70 mm - na kubki 150 ml / 180 ml</li>, <br/> - większe 90 mm - na kubki 300 ml.<br/>Podajnik można w bezinwazyjny sposób przykleić do boku automatu za pomocą taśmy dwustronnej.<br/>Wykonany z wytrzymałego materiału PET-G metodą druku 3D.<br/><br/>Na zamówienie możemy wykonać element w innych kolorach.<br/><br/>",
+    "name": {
+      "pl": "Podajnik wieczek",
+      "en": "Lid Dispenser"
+    },
+    "desc": {
+      "pl": "<strong>Podajnik wieczek 150/180/300ml.</strong><br/><br/>Praktyczny dodatek do każdego automatu vendingowego. Zaprojektowany z myślą o użytkowaniu w przestrzeni publicznej zapewnia klientom możliwość zabrania napoju na wynos.<br/><br/>W naszej ofercie znajdziesz dwa warianty podajników:<br/> - standardowe 70 mm - na kubki 150 ml / 180 ml</li>, <br/> - większe 90 mm - na kubki 300 ml.<br/>Podajnik można w bezinwazyjny sposób przykleić do boku automatu za pomocą taśmy dwustronnej.<br/>Wykonany z wytrzymałego materiału PET-G metodą druku 3D.<br/><br/>Na zamówienie możemy wykonać element w innych kolorach.<br/><br/>",
+      "en": "<strong>Lid dispenser 150/180/300ml.</strong><br/><br/>A practical addition to any vending machine. Designed for public use, it allows customers to take their drink to go.<br/><br/>We offer two dispenser sizes:<br/> - standard 70 mm - for 150 ml / 180 ml cups,<br/> - larger 90 mm - for 300 ml cups.<br/>The dispenser can be attached to the machine using double-sided tape without any invasive mounting.<br/>Made of durable PET-G material using 3D printing.<br/><br/>Custom colors are available upon request.<br/><br/>"
+    },
+    "link": "https://www.olx.pl/d/oferta/podajnik-wieczek-300ml-CID99-ID19WUWI.html?reason=seller_listing",
     "images": [
       "/products/podajnikwieczek1.png",
       "/products/podajnikwieczek2.png",
       "/products/podajnikwieczek3.png"
     ]
   },
+
   {
     "id": 5,
-    "name": "Prowadnica wlotu monet Rheavendors",
-    "desc": "<strong>Zjeżdżalnia monet/prowadnica wlotu monet.</strong><br/><br/>Zamiennik prowadnicy wlotu monet <strong>Z0020042051CY COINS ENTRY CHUTE</strong> do automatów Rheavendors, wykonany w technologii druku 3D z wytrzymałego tworzywa PET-G.<br/><br/>Kompatybilny z automatami: <strong>Damian ETA BETA, LUCE X SNAC, CAFFE EUROPA PRO, CAFFE EUROPA, ECO LUCE, LUCE X2 PREMIUM, LUCE X2 PRO, LUCE X2 TOUCHTV I, LUCE X2</strong>.<br/><br/>Na zamówienie element możemy wykonać w innych kolorach.<br/><br/>",
+    "name": {
+      "pl": "Prowadnica wlotu monet Rheavendors",
+      "en": "Rheavendors Coin Entry Chute"
+    },
+    "desc": {
+      "pl": "<strong>Zjeżdżalnia monet/prowadnica wlotu monet.</strong><br/><br/>Zamiennik prowadnicy wlotu monet <strong>Z0020042051CY COINS ENTRY CHUTE</strong> do automatów Rheavendors, wykonany w technologii druku 3D z wytrzymałego tworzywa PET-G.<br/><br/>Kompatybilny z automatami: <strong>Damian ETA BETA, LUCE X SNAC, CAFFE EUROPA PRO, CAFFE EUROPA, ECO LUCE, LUCE X2 PREMIUM, LUCE X2 PRO, LUCE X2 TOUCHTV I, LUCE X2</strong>.<br/><br/>Na zamówienie element możemy wykonać w innych kolorach.<br/><br/>",
+      "en": "<strong>Coin chute/entry guide.</strong><br/><br/>Replacement for coin entry guide <strong>Z0020042051CY COINS ENTRY CHUTE</strong> for Rheavendors machines, made with durable PET-G using 3D printing.<br/><br/>Compatible with machines: <strong>Damian ETA BETA, LUCE X SNAC, CAFFE EUROPA PRO, CAFFE EUROPA, ECO LUCE, LUCE X2 PREMIUM, LUCE X2 PRO, LUCE X2 TOUCHTV I, LUCE X2</strong>.<br/><br/>Custom colors are available upon request.<br/><br/>"
+    },
+    "link": "https://www.olx.pl/d/oferta/prowadnica-wlotu-monet-rheavendors-CID99-ID19WUvj.html?reason=seller_listing",
     "images": [
       "/products/prowadnicawlotumonet1.png",
       "/products/prowadnicawlotumonet2.png",
@@ -55,10 +93,18 @@
       "/products/prowadnicawlotumonet4.png"
     ]
   },
+
   {
     "id": 6,
-    "name": "Wkładka zwrotu monet do automatów Necta",
-    "desc": "<strong>Wkładka zwrotu monet do automatów Necta (Astro, Kikko, Kikko Max, Snackky, Snackky Max).</strong><br/><br/>Pozwala na naprawę uszkodzonego mechanizmu zwrotu monet (na przykład w sytuacji wybicia otworu w dnie na skutek uderzania przez monety) bez konieczności wymiany całego modułu.<br/><br/>Zapobiega wpadaniu monet do wnętrza automatu, a montaż nie wymaga użycia specjalistycznych narzędzi.<br/><br/>Wkładka została wykonana z wytrzymałego materiału PET-G metodą druku 3D – jest odporna na uderzenia monet i warunki pracy automatu.<br/>Na zamówienie element możemy wykonać w innych kolorach.<br/><br/>",
+    "name": {
+      "pl": "Wkładka zwrotu monet do automatów Necta",
+      "en": "Coin Return Insert for Necta Machines"
+    },
+    "desc": {
+      "pl": "<strong>Wkładka zwrotu monet do automatów Necta (Astro, Kikko, Kikko Max, Snackky, Snackky Max).</strong><br/><br/>Pozwala na naprawę uszkodzonego mechanizmu zwrotu monet (na przykład w sytuacji wybicia otworu w dnie na skutek uderzania przez monety) bez konieczności wymiany całego modułu.<br/><br/>Zapobiega wpadaniu monet do wnętrza automatu, a montaż nie wymaga użycia specjalistycznych narzędzi.<br/><br/>Wkładka została wykonana z wytrzymałego materiału PET-G metodą druku 3D – jest odporna na uderzenia monet i warunki pracy automatu.<br/>Na zamówienie element możemy wykonać w innych kolorach.<br/><br/>",
+      "en": "<strong>Coin return insert for Necta machines (Astro, Kikko, Kikko Max, Snackky, Snackky Max).</strong><br/><br/>Allows repairing a damaged coin return mechanism (e.g., a hole in the bottom from coin impact) without replacing the entire module.<br/><br/>Prevents coins from falling into the machine; installation does not require special tools.<br/><br/>Made from durable PET-G using 3D printing – resistant to coin impacts and machine operation conditions.<br/>Custom colors available on request.<br/><br/>"
+    },
+    "link": "https://www.olx.pl/d/oferta/wkladka-zwrotu-monet-do-automatow-necta-CID99-ID19WWgG.html?reason=seller_listing",
     "images": [
       "/products/wkladkazwrotumonet1.png",
       "/products/wkladkazwrotumonet2.png",
@@ -66,10 +112,18 @@
       "/products/wkladkazwrotumonet4.png"
     ]
   },
+
   {
     "id": 7,
-    "name": "Zewnętrzny uchwyt na kubek 300ml",
-    "desc": "<strong>Zewnętrzny uchwyt na kubek 300 ml do automatu vendingowego</strong><br/><br/>Uchwyt przeznaczony jest do montażu na zewnętrznej obudowie automatu za pomocą taśmy klejącej (w zestawie). Umieszczenie w nim kubka o pojemności <strong>300 ml</strong> działa zachęcająco na klientów – prezentuje realny rozmiar porcji napoju.<br/><br/>Ponadto kubek może pełnić funkcję <strong>praktycznego pojemnika na drewniane mieszadełka</strong>. Szczególnie przydatne w automatach przerobionych z małych kubków, które nie są przystosowane do wydawania lub przechowywania patyczków.<br/><br/>Uchwyt został wykonany z wytrzymałego materiału <strong>PET-G</strong> metodą druku 3D.<br/><br/>Na zamówienie element możemy wykonać w innych kolorach.<br/><br/>",
+    "name": {
+      "pl": "Zewnętrzny uchwyt na kubek 300ml",
+      "en": "External Cup Holder 300ml"
+    },
+    "desc": {
+      "pl": "<strong>Zewnętrzny uchwyt na kubek 300 ml do automatu vendingowego</strong><br/><br/>Uchwyt przeznaczony jest do montażu na zewnętrznej obudowie automatu za pomocą taśmy klejącej (w zestawie). Umieszczenie w nim kubka o pojemności <strong>300 ml</strong> działa zachęcająco na klientów – prezentuje realny rozmiar porcji napoju.<br/><br/>Ponadto kubek może pełnić funkcję <strong>praktycznego pojemnika na drewniane mieszadełka</strong>. Szczególnie przydatne w automatach przerobionych z małych kubków, które nie są przystosowane do wydawania lub przechowywania patyczków.<br/><br/>Uchwyt został wykonany z wytrzymałego materiału <strong>PET-G</strong> metodą druku 3D.<br/><br/>Na zamówienie element możemy wykonać w innych kolorach.<br/><br/>",
+      "en": "<strong>External cup holder 300 ml for vending machines</strong><br/><br/>Designed to mount on the machine’s exterior using tape (included). Holding a <strong>300 ml</strong> cup makes the portion size clear to customers.<br/><br/>The cup can also serve as a practical container for wooden stirrers, useful for machines adapted from smaller cups.<br/><br/>Made from durable PET-G using 3D printing.<br/><br/>Custom colors are available on request.<br/><br/>"
+    },
+    "link": "https://www.olx.pl/d/oferta/zewnetrzny-uchwyt-na-kubek-300-ml-do-automatu-vendingowego-CID99-ID19WUau.html?reason=seller_listing",
     "images": [
       "/products/uchwytnakubek1.png",
       "/products/uchwytnakubek2.png",
@@ -77,26 +131,61 @@
       "/products/uchwytnakubek4.png"
     ]
   },
+
   {
     "id": 8,
-    "name": "Ramka wyświetlacza kod 250513",
-    "desc": "<strong>Ramka wyświetlacza, zamiennik elementu necta Snack max o kodzie części 250513</strong><br/><br/>Element został wykonany w technologii druku 3D. Jego kształt został delikatnie zmodyfikowany w celu zwiększenia wytrzymałości. Pomiędzy metalową powierzchnią automatu a elementem znajduje się warstwa plastiku o strukturze plastra miodu, co dodatkowo zwiększa odporność na ewentualne uderzenia mechaniczne.<br/><br/>Wyświetlacz jest przykręcany do ramki w punktach otoczonych tworzywem, dzięki czemu jego uszkodzenie jego mocowania jest znacznie trudniejsze niż w oryginalnej konstrukcji.<br/><br/>Cienka warstwa folii chroniącej wyświetlacz, stosowana w oryginalnym elemencie, została zastąpiona płytą plexi o grubości 4 mm. Dzięki temu uszkodzenie powierzchni np. długopisem lub innym ostrym narzędziem jest znacznie trudniejsze.<br/><br/>Dodatkową zaletą jest możliwość wymiany plexi w przypadku jej uszkodzenia.",
+    "name": {
+      "pl": "Ramka wyświetlacza kod 250513",
+      "en": "Display Frame Code 250513"
+    },
+    "desc": {
+      "pl": "<strong>Ramka wyświetlacza, zamiennik elementu necta Snack max o kodzie części 250513</strong><br/><br/>Element został wykonany w technologii druku 3D. Jego kształt został delikatnie zmodyfikowany w celu zwiększenia wytrzymałości. Pomiędzy metalową powierzchnią automatu a elementem znajduje się warstwa plastiku o strukturze plastra miodu, co dodatkowo zwiększa odporność na ewentualne uderzenia mechaniczne.<br/><br/>Wyświetlacz jest przykręcany do ramki w punktach otoczonych tworzywem, dzięki czemu jego uszkodzenie jego mocowania jest znacznie trudniejsze niż w oryginalnej konstrukcji.<br/><br/>Cienka warstwa folii chroniącej wyświetlacz, stosowana w oryginalnym elemencie, została zastąpiona płytą plexi o grubości 4 mm. Dzięki temu uszkodzenie powierzchni np. długopisem lub innym ostrym narzędziem jest znacznie trudniejsze.<br/><br/>Dodatkową zaletą jest możliwość wymiany plexi w przypadku jej uszkodzenia.",
+      "en": "<strong>Display frame, replacement for Necta Snack max part code 250513</strong><br/><br/>Made using 3D printing. The shape has been slightly modified to improve durability. Between the machine’s metal surface and the frame there is a honeycomb-structured plastic layer, which increases resistance to mechanical impacts.<br/><br/>The display is screwed to the frame at points surrounded by plastic, making it harder to damage than in the original construction.<br/><br/>The thin protective film from the original part has been replaced with a 4mm plexiglass sheet, making surface damage from pens or sharp tools much harder.<br/><br/>Additionally, the plexi can be replaced if damaged."
+    },
+    "link": "https://www.olx.pl/d/oferta/ramka-wyswietlacza-zamiennik-snack-max-250513-CID4269-ID19WTH5.html?reason=seller_listing",
     "images": [
-      "/products/ramkawyswietlacza1.jpg",
-      "/products/ramkawyswietlacza2.jpg",
-      "/products/ramkawyswietlacza3.jpg",
+      "/products/ramkawyswietlacza1.png",
+      "/products/ramkawyswietlacza2.png",
+      "/products/ramkawyswietlacza3.png",
       "/products/ramkawyswietlacza4.jpg"
     ]
   },
   {
     "id": 9,
-    "name": "Stabilizator kabla do czytnika płatności Nayax Onyx",
-    "desc": "<strong>Stabilizator kabla do czytnika płatności Nayax Onyx – wkładka zabezpieczająca złącze</strong><br/><br/>Problemy z niestabilnym połączeniem w czytniku płatności Nayax Onyx to jedna z najczęstszych usterek w automatach vendingowych. Z czasem kabel łączący moduł czytnika z maszyną może się wyrobić lub poluzować w gnieździe. Powoduje to chwilowe zaniki napięcia, restarty czytnika, utratę łączności z siecią oraz problemy z autoryzacją płatności.<br/><br/>Stworzyliśmy specjalną wkładkę stabilizującą kabel, która zabezpiecza wtyczkę w gnieździe czytnika i zapobiega jej luzowaniu się podczas codziennej pracy automatu.<br/><br/>Produkt przeznaczony jest do automatów vendingowych wyposażonych w czytnik płatności <strong>Nayax Onyx</strong>. <br/><br/>Instalacja wkładki jest szybka i nie wymaga specjalistycznych narzędzi. Wystarczy umieścić element w odpowiednim miejscu przy złączu kabla, aby skutecznie ustabilizować wtyczkę.<br/><br/>Niewielki element może zapobiec kosztownym przestojom automatu, utracie sprzedaży oraz niepotrzebnym wizytom serwisowym.<br/><br/>",
+    "name": {
+      "pl": "Stabilizator kabla do czytnika płatności Nayax Onyx",
+      "en": "Cable Stabilizer for Nayax Onyx Payment Reader"
+    },
+    "desc": {
+      "pl": "<strong>Stabilizator kabla do czytnika płatności Nayax Onyx – wkładka zabezpieczająca złącze</strong><br/><br/>Problemy z niestabilnym połączeniem w czytniku płatności Nayax Onyx to jedna z najczęstszych usterek w automatach vendingowych. Z czasem kabel łączący moduł czytnika z maszyną może się wyrobić lub poluzować w gnieździe. Powoduje to chwilowe zaniki napięcia, restarty czytnika, utratę łączności z siecią oraz problemy z autoryzacją płatności.<br/><br/>Stworzyliśmy specjalną wkładkę stabilizującą kabel, która zabezpiecza wtyczkę w gnieździe czytnika i zapobiega jej luzowaniu się podczas codziennej pracy automatu.<br/><br/>Produkt przeznaczony jest do automatów vendingowych wyposażonych w czytnik płatności <strong>Nayax Onyx</strong>. <br/><br/>Instalacja wkładki jest szybka i nie wymaga specjalistycznych narzędzi. Wystarczy umieścić element w odpowiednim miejscu przy złączu kabla, aby skutecznie ustabilizować wtyczkę.<br/><br/>Niewielki element może zapobiec kosztownym przestojom automatu, utracie sprzedaży oraz niepotrzebnym wizytom serwisowym.<br/><br/>",
+      "en": "<strong>Cable stabilizer for Nayax Onyx payment reader – connector securing insert</strong><br/><br/>Unstable connections in Nayax Onyx readers are a common vending machine issue. Over time, the cable connecting the reader to the machine can loosen, causing power drops, reader restarts, network disconnections, and payment authorization issues.<br/><br/>This stabilizing insert secures the connector in the reader port, preventing loosening during daily operation.<br/><br/>Designed for vending machines with the <strong>Nayax Onyx</strong> payment reader.<br/><br/>Installation is quick and requires no special tools. Simply place the insert at the cable connector to stabilize it.<br/><br/>This small part prevents costly machine downtime, lost sales, and unnecessary service visits."
+    },
+    "link": "https://www.olx.pl/d/oferta/wkladka-zabezpieczajaca-zlacze-nayax-onyx-CID5216-ID19WTQC.html?reason=seller_listing",
     "images": [
-      "/products/wkładka3.jpg",
+      "/products/wkładka3.png",
       "/products/wkładka1.png",
-      "/products/wkładka2.jpg",
+      "/products/wkładka2.png",
       "/products/wkładka4.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "name": {
+      "pl": "Ramka Necta / przejściówka do czytnika Nayax Onyx",
+      "en": "Necta Frame / Adapter for Nayax Onyx Reader"
+    },
+    "desc": {
+      "pl": "<strong>Ramka Necta / przejściówka do czytnika Nayax Onyx</strong><br/><br/>Ramka montażowa przeznaczona do instalacji systemu płatności bezgotówkowych Nayax Onyx w automatach vendingowych. Element został zaprojektowany z myślą o szybszym, łatwiejszym i estetycznym montażu czytnika w drzwiach maszyny.<br/><br/>Dzięki zastosowaniu ramki instalacja czytnika jest prostsza i bardziej uporządkowana, a sam automat zyskuje schludny i profesjonalny wygląd.<br/><br/>Płaskie powierzchnie ramki doskonale nadają się do umieszczania naklejek z numerem telefonu serwisowego, instrukcji płatności, oznaczeń operatora automatu, kodów QR lub informacji dla klientów. Dzięki temu wszystkie ważne informacje mogą być czytelnie umieszczone w jednym miejscu, bezpośrednio przy czytniku kart.<br/><br/>Ramka pasuje do popularnych automatów vendingowych marki Necta<br/><br/>Montaż ramki jest bardzo prosty. Nasza ramka posiada identyczne punkty mocowania jak oryginalny plastikowy element, dlatego instalacja polega jedynie na przełożeniu śrub z oryginalnego mocowania. Wystarczy odkręcić oryginalny element, przyłożyć ramkę w jego miejsce i ponownie dokręcić te same śruby<br/><br/>",
+      "en": "<strong>Necta frame / adapter for Nayax Onyx reader</strong><br/><br/>Mounting frame designed for installing the Nayax Onyx cashless payment system in vending machines. Designed for faster, easier, and neater reader installation in the machine door.<br/><br/>The frame simplifies installation and keeps the machine looking tidy and professional.<br/><br/>Flat frame surfaces are ideal for stickers with service phone numbers, payment instructions, operator marks, QR codes, or customer information, keeping everything in one clear location near the card reader.<br/><br/>Fits popular Necta vending machines.<br/><br/>Installation is simple. Our frame uses the same mounting points as the original plastic part, so just transfer the screws from the original and tighten them again."
+    },
+    "link": "https://www.olx.pl/d/oferta/ramka-necta-przejsciowka-do-czytnika-nayax-onyx-CID99-ID19WUoJ.html?reason=seller_listing",
+    "images": [
+      "/products/ramkaNecta6.png",
+      "/products/ramkaNecta1.png",
+      "/products/ramkaNecta2.png",
+      "/products/ramkaNecta3.png",
+      "/products/ramkaNecta4.jpg",
+      "/products/ramkaNecta5.jpg"
     ]
   }
 ]
